@@ -11,8 +11,10 @@ Some things I'm interested in:
 
 ***I'm always happy to review pull requests for any of my projects, if you'd like to help out!***
 
-Before you go, you should check out my website [CoalFarm](http://coalfarm.cf)!\n
+Before you go, you should check out my website [CoalFarm](http://coalfarm.cf)!
 It's most likely blank at the moment, but I'll be sure to add to it soon!
+
+----
 
 <p align="center">
   <a href="https://github.com/Cole320">
