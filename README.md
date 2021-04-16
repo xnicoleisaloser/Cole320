@@ -8,6 +8,7 @@ Some things I'm interested in:
 - Reverse Engineering
 - Esoteric projects
 - Ricing
+- Using fonts that support ligatures
 
 ***I'm always happy to review pull requests for any of my projects, if you'd like to help out!***
 
@@ -18,8 +19,8 @@ It's most likely blank at the moment, but I'll be sure to add to it soon!
 
 <p align="center">
   <a href="https://github.com/Cole320">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cole320&hide_border=true&show_icons=true" alt="Cole320's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cole320&hide_border=true&layout=compact" alt="Cole320's GitHub languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=Cole320&hide_border=true&show_icons=true&theme=dark" alt="Cole320's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cole320&hide_border=true&layout=compact&theme=dark" alt="Cole320's GitHub languages">
   </a>
 </p>
 
